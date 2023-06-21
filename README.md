@@ -1,3 +1,4 @@
+[![Board Status](https://dev.azure.com/githubcloudlabsuser015/621945e9-c339-4c38-a6e0-cf39b0f11d3d/87b88c5c-c21d-457e-a675-bfacbd4740a5/_apis/work/boardbadge/52be6503-5da3-497d-9a24-b80cd09a0bbe)](https://dev.azure.com/githubcloudlabsuser015/621945e9-c339-4c38-a6e0-cf39b0f11d3d/_boards/board/t/87b88c5c-c21d-457e-a675-bfacbd4740a5/Microsoft.RequirementCategory)
 # Contoso Traders
 
 ![Logo](./docs/images/logo-1280x640.png)
